@@ -11,7 +11,6 @@ Blog d'une féministe intersectionnelle inclusive, non abolitionniste, sex posit
 
 {% img /images/mapierre.jpg %}
 
-
 <!-- more -->
 
 Il est question de révoltes, de colère, de pédagogie, et quelquefois, (souvent même finalement,sinon, pourquoi un blog?) d'espoir. Que les hommes cis hétéros blancs valides ont assez de réflexion et de courage pour délaisser leurs privilèges et profiter autant que les femmes/ LGBT/ racisés / handicapés d'une société égalitaire. Il y fera bon vivre, c'est promis. Les pénis ne tomberont pas comme des mouches, les femmes ne cesseront de se s'épiler que si elles le désirent, les enfants pourront choisir leur carrière parfaitement indépendamment de leur genre, bref, ce sera pas l'apocalypse, et ça vaut le coup d'essayer.
