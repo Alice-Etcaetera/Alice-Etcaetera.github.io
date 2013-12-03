@@ -86,6 +86,7 @@ sub { bottom: -.5em; }
 
 a[rev='footnote']{ font-size: .75em; padding: 0 .3em; line-height: 1; }
 
+
 q { font-style: italic;
   &:before { content: "\201C"; }
   &:after { content: "\201D"; }
@@ -162,3 +163,6 @@ article blockquote {
   word-wrap: break-word;
 }
 
+.entry-title {
+  color: $link-color-hover;
+}
