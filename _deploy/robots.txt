@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://Alice-Etcaetera.github.io/sitemap.xml 
